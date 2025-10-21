@@ -1,0 +1,9 @@
+
+GRPC localhost:9001/BillingService/CreateBillingAccount
+Content-Type: application/json
+
+{
+  "patientId" : "1234",
+  "name" : "puri",
+  "email" : "puri@bokka.com"
+}
